@@ -13,16 +13,16 @@ A proposta da Skilla é simplificar a forma como pessoas encontram oportunidades
 - IA para análise de compatibilidade entre vagas e perfis
 - Sistema de recomendação de talentos
 - Painel de controle para empresas e candidatos
-- Integração com ferramentas de RH
 
 ## 🛠️ Tecnologias Utilizadas
 
 - Node.js / TypeScript
 - MongoDB
-- React / Next.js (futuro)
+- React
 - Docker
 - Inteligência Artificial (OpenAI, modelos de recomendação)
 - Mensageria (WhatsApp API)
+- N8N
 
 ## 📦 Como Rodar Localmente
 
@@ -50,4 +50,4 @@ Instagram (em breve): @usoskilla
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request com sugestões, melhorias ou correções.
 
 📄 Licença
-MIT
+[MIT](./LICENSE)
